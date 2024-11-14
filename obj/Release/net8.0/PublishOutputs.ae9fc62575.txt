@@ -1,0 +1,7 @@
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\wa-appsvc-workshop-demo.exe
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\appsettings.json
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\wa-appsvc-workshop-demo.dll
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\wa-appsvc-workshop-demo.deps.json
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\wa-appsvc-workshop-demo.runtimeconfig.json
+C:\Users\jimlane\OneDrive - Microsoft\Documents\source\repos\wa-appsvc-workshop-demo\bin\Release\net8.0\publish\wa-appsvc-workshop-demo.pdb
